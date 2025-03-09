@@ -62,7 +62,6 @@ Password: `SystemAdminPassword`
 - VSCode
 - Git
 - GitHub
-- Jira
 
 ## Authors
 
