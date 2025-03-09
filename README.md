@@ -34,7 +34,7 @@ git clone https://github.com/software-engineering-2023/Online-Banking-Platform.g
 
 ### Login credentials
 
-Next, navigate to the login page and login using the following credentials:
+Next, navigate to the login page and Login to the website using the following credentials:
 
 #### Client
 
@@ -69,4 +69,3 @@ Password: `SystemAdminPassword`
 - [@mahmoudaboueleneen](https://github.com/mahmoudaboueleneen)
 - [@AbdelrahmanRewaished](https://github.com/AbdelrahmanRewaished)
 - [@abdelrahmanAbouelkheir](https://github.com/abdelrahmanAbouelkheir)
-- [@Ahmedsherif74](https://github.com/Ahmedsherif74)
